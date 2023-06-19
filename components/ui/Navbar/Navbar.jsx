@@ -10,7 +10,7 @@ const Navbar = () => {
 
     const navigation = [
         { name: "Community", href: "#community" },
-        { name: "Events", href: "/Events" },
+        { name: "Events", href: "/events" },
         { name: "Discussion Forum", href: "#DiscussionForum" },
         { name: "Resource Library", href: "/ResourceLibrary" },
     ]
